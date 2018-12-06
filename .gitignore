@@ -92,3 +92,6 @@ Release/Il2CppDumper.ipdb
 Release/out.idc
 *.idc
 *.sdf
+
+# CMake build directory
+build/
